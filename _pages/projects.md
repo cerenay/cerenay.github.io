@@ -1,48 +1,19 @@
 ---
 layout: page
-title: projects
+title: Research
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: A growing collection of my projects.
 ---
+<strong>Work in Progress</strong>
 
-{% for project in site.projects %}
+**Information Avoidance and Image Concerns in Reciprocal Decisions**
 
-{% if project.redirect %}
-<div class="project">
-    <div class="thumbnail">
-        <a href="{{ project.redirect }}" target="_blank">
-        {% if project.img %}
-        <img class="thumbnail" src="{{ project.img | prepend: site.baseurl | prepend: site.url }}"/>
-        {% else %}
-        <div class="thumbnail blankbox"></div>
-        {% endif %}    
-        <span>
-            <h1>{{ project.title }}</h1>
-            <br/>
-            <p>{{ project.description }}</p>
-        </span>
-        </a>
-    </div>
-</div>
-{% else %}
+How the perception of what is right to do changes by information preferences? By investigating self-image concerns in the concept of strategic ignorance and by comparing the effects of ex-ante and ex-post ignorance the project aims to find answers to following questions: Do people act pro-socially not to suffer from the action(letting others down or causing an unfair outcome) or do they compelled to do so in certain situations to protect their social /self image (to see themselves in the desired way)? Do they avoid observing the consequences of their choices in a rich moral context like reciprocal decisions? Results from the project shows that under exogenous ignorance, selfish behavior increases substantially and strategic ignorance is almost same both in ex-ante and ex-post situations. Which supposes that violations of existing mainstream models on fairness and inequality are driven by the desire to be seen in the desired way to oneself and to others.
 
-<div class="project ">
-    <div class="thumbnail">
-        <a href="{{ project.url | prepend: site.baseurl | prepend: site.url }}">
-        {% if project.img %}
-        <img class="thumbnail" src="{{ project.img | prepend: site.baseurl | prepend: site.url }}"/>
-        {% else %}
-        <div class="thumbnail blankbox"></div>
-        {% endif %}    
-        <span>
-            <h1>{{ project.title }}</h1>
-            <br/>
-            <p>{{ project.description }}</p>
-        </span>
-        </a>
-    </div>
-</div>
+**Self-Image Considerations in the Provision of Helpful Feedback - joint with Stefan Meißner**
 
-{% endif %}
 
-{% endfor %}
+**Fairness vs. Dishonesty - joint with Katrine Berg Nødvedt and Joel Berge**
+
+
+**Reasoning Avoidance - joint with Hallgeir Sjåstad and Steven Sloman**
