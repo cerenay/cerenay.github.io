@@ -4,7 +4,7 @@
 name: Ceren Ay
 email: Fehime.ay@nhh.no
 description: > # this means to ignore newlines until "url:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  My personal website giving information about my academic activities. 
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a>.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
