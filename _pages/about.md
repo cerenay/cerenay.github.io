@@ -1,7 +1,7 @@
 ---
 layout: about
 permalink: /
-title: <strong>F. Ceren Ay</strong>
+title: <strong> Ceren Ay</strong>
 description: <a href="">Norwegian School of Economics, Department of Economics, FAIR - The Choice Lab</a>.
 
 profile:
