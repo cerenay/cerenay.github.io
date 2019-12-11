@@ -4,6 +4,7 @@ permalink: /teaching/
 title: Teaching Assistance
 description: 
 ---
+**Spring 2020**     Behavioral Economics, NHH
 
 **Fall 2019**       Econometric Techniques, NHH
 
