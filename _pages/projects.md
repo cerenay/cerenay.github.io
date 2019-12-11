@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research
-permalink: /research/
+permalink: /projects/
 description: A growing collection of my projects.
 ---
 <strong>Work in Progress</strong>
