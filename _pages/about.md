@@ -2,7 +2,7 @@
 layout: about
 permalink: /
 title: <strong> Ceren Ay</strong>
-description: <a href="">[Norwegian School of Economics, Department of Economics, FAIR - The Choice Lab](https://www.nhh.no/en/departments/economics/){:target="\_blank"}</a>.
+description: <a href="">[Norwegian School of Economics, Department of Economics, FAIR - The Choice Lab](https://www.nhh.no/en/departments/economics/){:target="\_blank"} </a>.
 
 profile:
   align: right
