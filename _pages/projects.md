@@ -13,7 +13,7 @@ How the perception of what is right to do change by information? By investigatin
 **Self-Image Considerations in the Provision of Helpful Feedback - joint with Stefan Meißner**
 
 
-**Strategic Curiosity - joint with Katrine Berg Nødvedt and Joel Berge**
+**Strategic Curiosity : Information and Dishonesty - joint with Katrine Berg Nødvedt and Joel Berge**
 
 
 **Reasoning Avoidance - joint with Hallgeir Sjåstad and Steven Sloman**
