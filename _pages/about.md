@@ -17,3 +17,4 @@ I am a PhD candidate at Norwegian School of Economics. I am affiliated to [FAIR 
 
 My supervisor is [Erik Øiolf Sørensen](https://www.nhh.no/en/employees/faculty/erik-oiolf-sorensen/){:target="\_blank"} and my research mainly focus on information preferences and effects of information in decisions. 
 
+You can find my [CV](https://drive.google.com/file/d/1KWFMKFpxLWhptymJTYVHJRa690iNDPJg/view?usp=sharing){:target="\_blank"} here.
