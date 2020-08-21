@@ -1,5 +1,5 @@
 ---
-layout: About
+layout: about
 permalink: /
 title: <strong> Ceren Ay</strong>
 description: <a href=""> Norwegian School of Economics, Department of Economics, FAIR - The Choice Lab </a>.
