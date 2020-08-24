@@ -17,4 +17,4 @@ I am a PhD candidate in Economics at Norwegian School of Economics. I am affilia
 
 My supervisor is [Erik Øiolf Sørensen](https://www.nhh.no/en/employees/faculty/erik-oiolf-sorensen/){:target="\_blank"} and my research mainly focus on information preferences and effects of information in decisions. 
 
-You can find my [CV](https://docs.google.com/gview?url= https://github.com/cerenay/cerenay.github.io/tree/master/assets/pdf/Ay,CV.pdf &embedded=true){:target="\_blank"} here.
+You can find my [CV](https://docs.google.com/gview?url= assets/pdf/Ay,CV.pdf &embedded=true){:target="\_blank"} here.
