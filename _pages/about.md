@@ -1,7 +1,7 @@
 ---
 layout: about
 permalink: /
-title: <strong> Ceren Ay</strong>
+title:  F. Ceren  <strong>Ay</strong>
 description: <a href=""> PhD Candidate - Norwegian School of Economics, Department of Economics, FAIR - The Choice Lab </a>.
 
 profile:
@@ -18,3 +18,5 @@ I am a PhD candidate in Economics at Norwegian School of Economics. I am affilia
 My supervisor is [Erik Øiolf Sørensen](https://www.nhh.no/en/employees/faculty/erik-oiolf-sorensen/){:target="\_blank"} and my research mainly focus on information preferences and effects of information in decisions. 
 
 You can find my [CV](https://drive.google.com/file/d/1iEIgIqK4zACz3n4YkKdZEC9cullUl_lv/view?usp=sharing){:target="\_blank"} here.
+
+I will be in the Academic Job Market in 2020/2021. 
