@@ -2,7 +2,7 @@
 layout: about
 permalink: /
 title:  F. Ceren  <strong>Ay</strong>
-description: <a href=""> PhD Candidate - Norwegian School of Economics, Department of Economics, FAIR - The Choice Lab </a>.
+description: <a> PhD Candidate - Norwegian School of Economics, Department of Economics, FAIR - The Choice Lab </a>.
 
 profile:
   align: right
