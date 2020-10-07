@@ -13,10 +13,9 @@ news: false
 social: true
 ---
 
-I am a PhD candidate in Economics at Norwegian School of Economics. I am affiliated to [FAIR - The Choice Lab](https://www.nhh.no/en/research-centres/fair/about/){:target="\_blank"}. 
+I am a Ph.D. candidate in Economics at the Norwegian School of Economics. I am affiliated to the research group [FAIR - The Choice Lab](https://www.nhh.no/en/research-centres/fair/about/){:target="\_blank"}. 
 
-My supervisor is [Erik Ã˜iolf SÃ¸rensen](https://www.nhh.no/en/employees/faculty/erik-oiolf-sorensen/){:target="\_blank"} and my research mainly focus on information preferences and effects of information in decisions. 
-
+My supervisor is [Erik Øiolf Sørensen](https://www.nhh.no/en/employees/faculty/erik-oiolf-sorensen/){:target="\_blank"}. My main research interests are in the field of behavioral and experimental economics. My research particularly focuses on preferences over the information in relation to moral decisions. 
 You can find my [CV here](/assets/pdf/Ay_CV.pdf){:target="\_blank"}.
 
-I will be in the Academic Job Market in 2020/2021. 
+I will be attending the European Job Market for Economists 2020.  
