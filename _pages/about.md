@@ -2,7 +2,7 @@
 layout: about
 permalink: /
 title:  F. Ceren  <strong>Ay</strong>
-description: <a> Ph.D. Candidate - Norwegian School of Economics, Department of Economics </a>
+description: <a> Ph.D. Candidate - [Norwegian School of Economics, Department of Economics](https://www.nhh.no/en/departments/economics/){:target="\_blank"} </a>
 
 profile:
   align: right
