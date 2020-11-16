@@ -17,5 +17,3 @@ I am a Ph.D. candidate in Economics at the [Norwegian School of Economics, Depar
 
 My supervisor is [Erik Øiolf Sørensen](https://www.nhh.no/en/employees/faculty/erik-oiolf-sorensen/){:target="\_blank"}. My main research interests are in the field of behavioral and experimental economics. My research particularly focuses on preferences over the information in relation to moral decisions. 
 You can find my [CV here](/assets/pdf/Ay_CV.pdf){:target="\_blank"}.
-
-I will be attending the European Job Market for Economists 2020.  
