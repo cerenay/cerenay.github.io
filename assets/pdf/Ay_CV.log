@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.10.12)  11 NOV 2020 11:49
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.10.12)  7 DEC 2020 17:19
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1113,18 +1113,13 @@ Package Fancyhdr Warning: \footskip is too small (30.0pt):
  This may cause the page layout to be inconsistent, however.
 
  [3]
-Underfull \hbox (badness 1831) in paragraph at lines 210--210
-\T1/lmr/m/n/10 (+20) Helle-vei-en 30, 5045, Ber-gen, Nor-way   |
- []
-
-
 Underfull \hbox (badness 1831) in paragraph at lines 215--215
 \T1/lmr/m/n/10 (+20) Helle-vei-en 30, 5045, Ber-gen, Nor-way   |
  []
 
 
-Underfull \hbox (badness 2856) in paragraph at lines 223--223
-\T1/lmr/m/n/10 (+20) 70 Wa-ter-man Stre-et, Pro-vi-den-ce, RI 02912, USA   |
+Underfull \hbox (badness 1831) in paragraph at lines 220--220
+\T1/lmr/m/n/10 (+20) Helle-vei-en 30, 5045, Ber-gen, Nor-way   |
  []
 
 
@@ -1132,7 +1127,12 @@ Underfull \hbox (badness 2856) in paragraph at lines 228--228
 \T1/lmr/m/n/10 (+20) 70 Wa-ter-man Stre-et, Pro-vi-den-ce, RI 02912, USA   |
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 325.
+
+Underfull \hbox (badness 2856) in paragraph at lines 233--233
+\T1/lmr/m/n/10 (+20) 70 Wa-ter-man Stre-et, Pro-vi-den-ce, RI 02912, USA   |
+ []
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 330.
 
 Package Fancyhdr Warning: \footskip is too small (30.0pt): 
  Make it at least 44.39996pt.
@@ -1140,21 +1140,21 @@ Package Fancyhdr Warning: \footskip is too small (30.0pt):
  This may cause the page layout to be inconsistent, however.
 
  [4]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 325.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 330.
  (./Ay_CV.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 325.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 325.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 330.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 330.
 Package rerunfilecheck Info: File `Ay_CV.out' has not changed.
-(rerunfilecheck)             Checksum: 9B5E2B124D2D22636CA38306448DF97B;535.
+(rerunfilecheck)             Checksum: 9C4CFFD1F175C094C39D62C9E148B7CE;587.
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 18068 strings out of 493014
- 307178 string characters out of 6133350
+ 18070 strings out of 493014
+ 307202 string characters out of 6133350
  512712 words of memory out of 5000000
- 21327 multiletter control sequences out of 15000+600000
+ 21328 multiletter control sequences out of 15000+600000
  49524 words of font info for 68 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  61i,12n,50p,10357b,425s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1169,10 +1169,10 @@ xlive/2016/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/local/texlive/2016
 /lmri10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/lm/lmro10.pf
 b></usr/local/texlive/2016/texmf-dist/fonts/type1/public/lm/lmro17.pfb></usr/lo
 cal/texlive/2016/texmf-dist/fonts/type1/public/lm/lmsy10.pfb>
-Output written on Ay_CV.pdf (4 pages, 214680 bytes).
+Output written on Ay_CV.pdf (4 pages, 215489 bytes).
 PDF statistics:
- 121 PDF objects out of 1000 (max. 8388607)
- 103 compressed objects within 2 object streams
- 15 named destinations out of 1000 (max. 500000)
- 13905 words of extra memory for PDF output out of 14400 (max. 10000000)
+ 125 PDF objects out of 1000 (max. 8388607)
+ 107 compressed objects within 2 object streams
+ 16 named destinations out of 1000 (max. 500000)
+ 13913 words of extra memory for PDF output out of 14400 (max. 10000000)
 
