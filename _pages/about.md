@@ -2,7 +2,7 @@
 layout: about
 permalink: /
 title:  F. Ceren  <strong>Ay</strong>
-description: <a> Ph.D. Candidate - Norwegian School of Economics, Department of Economics </a>
+description: <a> Researcher at Telenor Research, Ph.D. Candidate - Norwegian School of Economics</a>
 
 profile:
   align: right
