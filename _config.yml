@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 name: Ceren Ay
-email: Fehime.ay@nhh.no
+email: fehime-ceren.ay@telenor.com
 description: > # this means to ignore newlines until "url:"
   PhD Candidate in Economics at Norwegian School of Economics
 footer_text: >
@@ -36,7 +36,7 @@ research_gate_profile: Fehime_Ay
 #blogger_url: # your blogger URL
 
 contact_note: >
-  Fehime.ay@nhh.no ,  Helleveien 30, 5045, Bergen
+  fehime-ceren.ay@telenor.com
 
 google_analytics: UA-126092779-1 # out your google-analytics code
 
