@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.10.12)  12 MAR 2023 21:17
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.10.12)  23 MAR 2023 16:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**Ay_CV_telenor.tex
-(./Ay_CV_telenor.tex
+**withoutwip.tex
+(./withoutwip.tex
 LaTeX2e <2016/03/31>
 Babel <3.9r> and hyphenation patterns for 83 language(s) loaded.
 (/usr/local/texlive/2016/texmf-dist/tex/latex/moderncv/moderncv.cls
@@ -438,40 +438,10 @@ r color scheme: black
 Package: lipsum 2014/07/27 v1.3 150 paragraphs of Lorem Ipsum dummy text
 \c@lips@count=\count121
 )
-(/usr/local/texlive/2016/texmf-dist/tex/latex/geometry/geometry.sty
-Package: geometry 2010/09/12 v5.6 Page Geometry
-
-(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ifpdf.sty
-Package: ifpdf 2016/05/14 v3.1 Provides the ifpdf switch
-)
-(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ifvtex.sty
-Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
-Package ifvtex Info: VTeX not detected.
-)
-\Gm@cnth=\count122
-\Gm@cntv=\count123
-\c@Gm@tempcnt=\count124
-\Gm@bindingoffset=\dimen140
-\Gm@wd@mp=\dimen141
-\Gm@odd@mp=\dimen142
-\Gm@even@mp=\dimen143
-\Gm@layoutwidth=\dimen144
-\Gm@layoutheight=\dimen145
-\Gm@layouthoffset=\dimen146
-\Gm@layoutvoffset=\dimen147
-\Gm@dimlist=\toks18
-)
-(/usr/local/texlive/2016/texmf-dist/tex/latex/base/fontenc.sty
-Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
-
-(/usr/local/texlive/2016/texmf-dist/tex/latex/base/t1enc.def
-File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
-LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
-))
 (/usr/local/texlive/2016/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2015/03/17 v1.2c Input encoding file
-\inpenc@prehook=\toks19
-\inpenc@posthook=\toks20
+\inpenc@prehook=\toks18
+\inpenc@posthook=\toks19
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/base/utf8.def
 File: utf8.def 2016/02/28 v1.1s UTF-8 support for inputenc
@@ -782,25 +752,29 @@ Now handling font encoding U ...
    defining Unicode char U+2122 (decimal 8482)
    defining Unicode char U+2423 (decimal 9251)
 ))
-(/usr/local/texlive/2016/texmf-dist/tex/generic/babel/babel.sty
-Package: babel 2016/04/23 3.9r The Babel package
+(/usr/local/texlive/2016/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
 
-(/usr/local/texlive/2016/texmf-dist/tex/generic/babel-english/english.ldf
-Language: english 2012/08/20 v3.3p English support from the babel system
-
-(/usr/local/texlive/2016/texmf-dist/tex/generic/babel/babel.def
-File: babel.def 2016/04/23 3.9r Babel common definitions
-\babel@savecnt=\count125
-\U@D=\dimen148
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2016/05/14 v3.1 Provides the ifpdf switch
 )
-\l@canadian = a dialect from \language\l@american 
-\l@australian = a dialect from \language\l@british 
-\l@newzealand = a dialect from \language\l@british 
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
 )
-(/usr/local/texlive/2016/texmf-dist/tex/generic/babel-norsk/norsk.ldf
-Language: norsk 2012/08/06 v2.0i Norsk support from the babel system
-Package babel Info: Making " an active character on input line 113.
-))
+\Gm@cnth=\count122
+\Gm@cntv=\count123
+\c@Gm@tempcnt=\count124
+\Gm@bindingoffset=\dimen140
+\Gm@wd@mp=\dimen141
+\Gm@odd@mp=\dimen142
+\Gm@even@mp=\dimen143
+\Gm@layoutwidth=\dimen144
+\Gm@layoutheight=\dimen145
+\Gm@layouthoffset=\dimen146
+\Gm@layoutvoffset=\dimen147
+\Gm@dimlist=\toks20
+)
 (/usr/local/texlive/2016/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2016/05/05 v6.83n Hypertext links for LaTeX
 
@@ -851,19 +825,26 @@ Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
 (/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/kvoptions.sty
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 )
-\@linkdim=\dimen149
-\Hy@linkcounter=\count126
-\Hy@pagecounter=\count127
+\@linkdim=\dimen148
+\Hy@linkcounter=\count125
+\Hy@pagecounter=\count126
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2016/05/05 v6.83n Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
-\Hy@SavedSpaceFactor=\count128
+\Hy@SavedSpaceFactor=\count127
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/latexconfig/hyperref.cfg
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Option `unicode' set `true' on input line 4322.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2016/05/05 v6.83n Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
 )
 Package hyperref Info: Hyper figures OFF on input line 4446.
 Package hyperref Info: Link nesting OFF on input line 4451.
@@ -872,12 +853,12 @@ Package hyperref Info: Plain pages OFF on input line 4461.
 Package hyperref Info: Backreferencing OFF on input line 4466.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4691.
-\c@Hy@tempcnt=\count129
+\c@Hy@tempcnt=\count128
 LaTeX Info: Redefining \url on input line 5044.
-\XeTeXLinkMargin=\dimen150
-\Fld@menulength=\count130
-\Field@Width=\dimen151
-\Fld@charsize=\dimen152
+\XeTeXLinkMargin=\dimen149
+\Fld@menulength=\count129
+\Field@Width=\dimen150
+\Fld@charsize=\dimen151
 Package hyperref Info: Hyper figures OFF on input line 6298.
 Package hyperref Info: Link nesting OFF on input line 6303.
 Package hyperref Info: Hyper index ON on input line 6306.
@@ -887,11 +868,7 @@ Package hyperref Info: Link coloring with OCG OFF on input line 6323.
 Package hyperref Info: PDF/A mode OFF on input line 6328.
 LaTeX Info: Redefining \ref on input line 6368.
 LaTeX Info: Redefining \pageref on input line 6372.
-
-
-Package hyperref Warning: Option `pdfpagelabels' is turned off
-(hyperref)                because \thepage is undefined.
-
+\Hy@abspage=\count130
 \c@Item=\count131
 \c@Hfootnote=\count132
 )
@@ -910,56 +887,46 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip84
 )
+Package hyperref Info: Option `breaklinks' set `true' on input line 42.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 42.
 
-! LaTeX Error: Option clash for package hyperref.
+(./withoutwip.aux)
+\openout1 = `withoutwip.aux'.
 
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.64 \begin{document}
-                     
-? Q
-OK, entering \batchmode...
-Package hyperref Info: Option `breaklinks' set `true' on input line 64.
-Package hyperref Info: Option `bookmarksopen' set `true' on input line 64.
- (./Ay_CV_telenor.aux)
-\openout1 = `Ay_CV_telenor.aux'.
-
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 64.
-LaTeX Font Info:    ... okay on input line 64.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 64.
-LaTeX Font Info:    ... okay on input line 64.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 64.
-LaTeX Font Info:    ... okay on input line 64.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 64.
-LaTeX Font Info:    ... okay on input line 64.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 64.
-LaTeX Font Info:    ... okay on input line 64.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 64.
-LaTeX Font Info:    ... okay on input line 64.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 64.
-LaTeX Font Info:    ... okay on input line 64.
-LaTeX Font Info:    Try loading font information for T1+lmr on input line 64.
-
-(/usr/local/texlive/2016/texmf-dist/tex/latex/lm/t1lmr.fd
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Try loading font information for T1+lmr on input line 42.
+ (/usr/local/texlive/2016/texmf-dist/tex/latex/lm/t1lmr.fd
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 (/usr/local/texlive/2016/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count135
-\scratchdimen=\dimen153
+\scratchdimen=\dimen152
 \scratchbox=\box47
 \nofMPsegments=\count136
 \nofMParguments=\count137
 \everyMPshowfont=\toks21
 \MPscratchCnt=\count138
-\MPscratchDim=\dimen154
+\MPscratchDim=\dimen153
 \MPnumerator=\count139
 \makeMPintoPDFobject=\count140
 \everyMPtoPDFconversion=\toks22
-)
-(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+) (/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/grfext.sty
@@ -974,7 +941,7 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-LaTeX Info: Redefining \microtypecontext on input line 64.
+LaTeX Info: Redefining \microtypecontext on input line 42.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -1024,8 +991,7 @@ File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 \AtBeginShipoutBox=\box48
-Package hyperref Info: Link coloring OFF on input line 64.
-
+Package hyperref Info: Link coloring OFF on input line 42.
 (/usr/local/texlive/2016/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 
@@ -1034,149 +1000,136 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count141
 )
-LaTeX Info: Redefining \ref on input line 64.
-LaTeX Info: Redefining \pageref on input line 64.
-LaTeX Info: Redefining \nameref on input line 64.
- (./Ay_CV_telenor.out) (./Ay_CV_telenor.out)
-\@outlinefile=\write3
-\openout3 = `Ay_CV_telenor.out'.
+LaTeX Info: Redefining \ref on input line 42.
+LaTeX Info: Redefining \pageref on input line 42.
+LaTeX Info: Redefining \nameref on input line 42.
 
-\pagenumberwidth=\skip85
+(./withoutwip.out) (./withoutwip.out)
+\@outlinefile=\write3
+\openout3 = `withoutwip.out'.
+
 \makecvheadpicturebox=\box49
-\makecvheadpicturewidth=\skip86
+\makecvheadpicturewidth=\skip85
 \makecvheadnamebox=\box50
 
-Underfull \hbox (badness 10000) in paragraph at lines 92--92
+Underfull \hbox (badness 10000) in paragraph at lines 70--70
 
  []
 
-LaTeX Font Info:    Try loading font information for OT1+lmr on input line 93.
-
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 71.
 (/usr/local/texlive/2016/texmf-dist/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OML+lmm on input line 93.
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 71.
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 93.
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 71.
 
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMX+lmex on input line 93.
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 71.
 
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 93.
+(Font)              <10> on input line 71.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 93.
+(Font)              <7> on input line 71.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 93.
+(Font)              <5> on input line 71.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.90 \newline
+             
+? Q
+OK, entering \batchmode...
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.111 ...tion Preferences and Morality"}} \newline
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Too many }'s.
+<recently read> }
+                 
+l.112 ...n University (January 2019 - June 2019)}}
+                                                  
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 207.
 
 LaTeX Font Warning: Font shape `U/fontawesometwo/m/sl' undefined
-(Font)              using `U/fontawesometwo/m/n' instead on input line 145.
+(Font)              using `U/fontawesometwo/m/n' instead on input line 207.
 
-LaTeX Font Info:    Try loading font information for OMS+lmr on input line 145.
+LaTeX Font Info:    Try loading font information for OMS+lmr on input line 207.
 
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/lm/omslmr.fd
 File: omslmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Font shape `OMS/lmr/m/sl' in size <10> not available
-(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 145.
+(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 207.
 
 Package Fancyhdr Warning: \footskip is too small (30.0pt): 
- Make it at least 44.39996pt.
+ Make it at least 32.39996pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
  [1
 
 {/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-
-Package Fancyhdr Warning: \footskip is too small (30.0pt): 
- Make it at least 44.39996pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
- [2]
-
-Package Fancyhdr Warning: \footskip is too small (30.0pt): 
- Make it at least 44.39996pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
- [3
-
-]
-Underfull \hbox (badness 1831) in paragraph at lines 219--219
-\T1/lmr/m/n/10 (+20) Helle-vei-en 30, 5045, Ber-gen, Nor-way   |
- []
-
-
-Underfull \hbox (badness 1831) in paragraph at lines 224--224
-\T1/lmr/m/n/10 (+20) Helle-vei-en 30, 5045, Ber-gen, Nor-way   |
- []
-
-
-Underfull \hbox (badness 2856) in paragraph at lines 232--232
-\T1/lmr/m/n/10 (+20) 70 Wa-ter-man Stre-et, Pro-vi-den-ce, RI 02912, USA   |
- []
-
-
-Underfull \hbox (badness 2856) in paragraph at lines 237--237
-\T1/lmr/m/n/10 (+20) 70 Wa-ter-man Stre-et, Pro-vi-den-ce, RI 02912, USA   |
- []
-
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 334.
-
-Package Fancyhdr Warning: \footskip is too small (30.0pt): 
- Make it at least 44.39996pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
- [4
-
-]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 334.
- (./Ay_CV_telenor.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 334.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 334.
-Package rerunfilecheck Info: File `Ay_CV_telenor.out' has not changed.
-(rerunfilecheck)             Checksum: BA213A634A6D29FF926D060D4CAD304A;585.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 207.
+ (./withoutwip.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 207.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 207.
+Package rerunfilecheck Info: File `withoutwip.out' has not changed.
+(rerunfilecheck)             Checksum: CC771B52006F8BCAA26B15F95D344D8D;612.
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 18070 strings out of 493014
- 307302 string characters out of 6133350
- 511728 words of memory out of 5000000
- 21328 multiletter control sequences out of 15000+600000
- 49571 words of font info for 68 fonts, out of 8000000 for 9000
+ 20729 strings out of 493014
+ 341370 string characters out of 6133350
+ 521615 words of memory out of 5000000
+ 24045 multiletter control sequences out of 15000+600000
+ 44720 words of font info for 52 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 61i,12n,50p,10365b,425s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/
-texlive/2016/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/local/texlive/20
-16/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}</usr/local/texliv
+ 65i,12n,51p,10362b,406s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/lo
+cal/texlive/2016/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}{/us
+r/local/texlive/2016/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}</usr/local/texliv
 e/2016/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb></usr/local/te
-xlive/2016/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/local/texlive/2016
-/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2016/texmf-dist
-/fonts/type1/public/lm/lmr12.pfb></usr/local/texlive/2016/texmf-dist/fonts/type
-1/public/lm/lmr17.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/lm
-/lmri10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/lm/lmro10.pf
-b></usr/local/texlive/2016/texmf-dist/fonts/type1/public/lm/lmro17.pfb></usr/lo
-cal/texlive/2016/texmf-dist/fonts/type1/public/lm/lmsy10.pfb>
-Output written on Ay_CV_telenor.pdf (4 pages, 217194 bytes).
+xlive/2016/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2016/
+texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/local/texlive/2016/texmf-dist/
+fonts/type1/public/lm/lmr17.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1
+/public/lm/lmri10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/lm
+/lmro10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/lm/lmro17.pf
+b></usr/local/texlive/2016/texmf-dist/fonts/type1/public/lm/lmsy10.pfb>
+Output written on withoutwip.pdf (1 page, 172796 bytes).
 PDF statistics:
- 125 PDF objects out of 1000 (max. 8388607)
- 107 compressed objects within 2 object streams
- 16 named destinations out of 1000 (max. 500000)
- 13913 words of extra memory for PDF output out of 14400 (max. 10000000)
+ 73 PDF objects out of 1000 (max. 8388607)
+ 61 compressed objects within 1 object stream
+ 7 named destinations out of 1000 (max. 500000)
+ 13353 words of extra memory for PDF output out of 14400 (max. 10000000)
 
