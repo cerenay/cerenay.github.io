@@ -6,7 +6,7 @@ description: <a> Researcher at Telenor Research</a>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: ceren_prof.JPG
   address: >
 
 news: false
