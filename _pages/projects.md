@@ -16,7 +16,7 @@ In this study, we investigate the motives behind additional rolling behavior in 
 
 *Some results we could not fit in the paper are [here](https://cerenay.github.io/strategic_curiosity/){:target="\_blank"}*
 
-***Crowdsourced projects***
+***Other projects***
 
 
 **[Competition and moral behavior: A meta-analysis of forty-five crowd-sourced experimental designs joint with Christoph Huber and others](https://www.pnas.org/doi/abs/10.1073/pnas.2215572120)**
@@ -43,8 +43,7 @@ The goal of this collaboration is to bring together scholars from around the glo
 
 In this paper, I document findings that show people may choose to avoid information about the consequences of a decision when it can signal an undesired characteristics like being selfish or betraying someone's trust. There is a clear pattern of behavior when avoiding information: people who make selfish decisions are more likely to avoid information. This behavior is observed even when the decision is already made and the information cannot change the outcome, particularly when information can show that the decision caused a loss for someone else. This paper contributes to the behavioral and experimental research on information preferences and moral decisions by documenting that decisions may not only be motivated by the desire for certain outcomes but also desire to be regarded as a good person by oneself. 
 
-**Self-Image Considerations in the Provision of Helpful Feedback - joint with [Stefan Mei√üner](https://www.nhh.no/en/employees/faculty/stefan-meissner/){:target="\_blank"}**
-
+**Self-Image Considerations in the Provision of Helpful Feedback - joint with [Stefan Meiﬂner](https://www.nhh.no/en/employees/faculty/stefan-meissner/){:target="\_blank"}**
 
 **Targeted Paternalism - joint with Alexander Cappelen, Eleonora Freddi and Bertil Tungodden**
 
