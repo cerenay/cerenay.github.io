@@ -7,6 +7,19 @@ description: Completed and continuing projects
 <strong>Publications</strong>
 
 
+**Noen Airbnb-utleiere rapporter ikke leieinntektene sine - hvorfor? - joint with Ada Gjedebo Hetland, Nina Serdarevic and Nora Christina Lokken**
+
+*[Skatteetatens Analysenytt](https://www.skatteetaten.no/om-skatteetaten/analyse-og-rapporter/analysenytt/airbnb-utleiere-rapporter-ikke-leieinntektene-sine/):target="\_blank"}* - June 2026
+
+
+
+**Conversation logs as a source of insight: predicting user satisfaction for customer service chatbots - joint with  Eleonora Freddi, Asbjørn Følstad, Stig Hodnebrog, Knut Kvale, Olav Alexander Sell & Simen Ulsaker **
+Quality and User Experience-April 2025
+
+Predicting user satisfaction for chatbots in customer service operations is important for their successful uptake. Based on chatbot conversation logs and corresponding satisfaction scores from a much used intent-based customer service chatbot, we developed models for predicting user satisfaction on the basis of conversation log data. We found significant covariation between satisfaction and conversation characteristics reflecting in the log data, suggesting efficient chatbot interactions. 
+*See our paper [here](https://link.springer.com/article/10.1007/s41233-025-00071-8){:target="\_blank"}*
+
+
 **Strategic Curiosity : An experimental study on curiosity and dishonesty - joint with [Katrine Berg Nødvedt](https://www.nhh.no/en/employees/faculty/katrine-berg-nodtvedt/){:target="\_blank"} and [Joel Berge](https://www.nhh.no/en/employees/faculty/joel-berge/){:target="\_blank"}**
 Journal of Economic Behavior and Organization-January 2024
 
@@ -43,7 +56,7 @@ The goal of this collaboration is to bring together scholars from around the glo
 
 In this paper, I document findings that show people may choose to avoid information about the consequences of a decision when it can signal an undesired characteristics like being selfish or betraying someone's trust. There is a clear pattern of behavior when avoiding information: people who make selfish decisions are more likely to avoid information. This behavior is observed even when the decision is already made and the information cannot change the outcome, particularly when information can show that the decision caused a loss for someone else. This paper contributes to the behavioral and experimental research on information preferences and moral decisions by documenting that decisions may not only be motivated by the desire for certain outcomes but also desire to be regarded as a good person by oneself. 
 
-**Self-Image Considerations in the Provision of Helpful Feedback - joint with [Stefan Mei�ner](https://www.nhh.no/en/employees/faculty/stefan-meissner/){:target="\_blank"}**
+**Self-Image Considerations in the Provision of Helpful Feedback - joint with [Stefan Mei?ner](https://www.nhh.no/en/employees/faculty/stefan-meissner/){:target="\_blank"}**
 
 **Targeted Paternalism - joint with Alexander Cappelen, Eleonora Freddi and Bertil Tungodden**
 
